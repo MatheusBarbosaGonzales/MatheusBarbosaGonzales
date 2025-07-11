@@ -3,9 +3,7 @@
 ## I'm Matheus, a Brazilian guy that love computers.
 <img align="right" alt="GIF" height="120px" src="https://user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif"/>
 
-- 📚 I’m currently learning C#
-
-- 💪🏼 Future Goal: Work as a Software developer
+- C# enjoyer
 
 - ⚡ One curiosity about me: I'm really into RPGs 🤓
 <!--## My skills
